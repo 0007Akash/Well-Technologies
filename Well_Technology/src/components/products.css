@@ -1,0 +1,15 @@
+.mainDiv {
+  display: grid;
+  grid-template-columns: repeat(4, 291px);
+  grid-template-rows: repeat(2, 218px);
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  align-content: center;
+}
+#card {
+  position: relative;
+}
+.menuBtn {
+  background-color: red;
+}

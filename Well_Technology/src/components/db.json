@@ -1,0 +1,195 @@
+{
+    "hero": [
+      {
+        "shead":"BACK-TO-COLLEGE OFFERS",
+        "head":"Doing Is the New Learning",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/heroes/btc-cons-dell-lifestyle-inspiron-7440-ms5120w-cp5724s-uhp-2502-09-in-hero-1024x768.jpg?fmt=png&wid=480&hei=360&size=480,360",
+        "desc":"Get up to ₹5,000 on your purchase with Dell Rewards & No Cost EMI up to 24 months.",
+        "btn1":"PC Deals",
+        "btn2":"Monitor Deals",
+        "background":"#cecfcc",
+        "color":"black"
+      },
+      {
+        "shead":"OPTIPLEX DESKTOPS",
+        "head":"Your Workspace Workhorse",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/promo-carousel/show-sb-dell-optiplex-7410-km5221w-uhp-2502-08-in-promo-c-lf-1610x906.jpg?wid=1610&hei=906",
+        "desc":"Elevate all you do with desktops built for essential power in a compact design.",
+        "btn1":"Shop All",
+        "btn2":"Learn More",
+        "background":"#fdefca",
+        "color":"black"
+      },
+      {
+        "shead":"WELCOME TO NOW",
+        "head":"Revive History With Generative AI",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/uber/043024-wecome-to-now-recipes-1023x768.jpg?fmt=png&wid=480&hei=360&size=480,360",
+        "desc":"Discover how GenAI is preserving memories and helping to write new ones.",
+        "btn1":"Play Video",
+        "btn2":"Explore GenAI",
+        "background":"#141413",
+        "color":"white"
+      }
+    ],
+    "products":[
+      {
+        "btnText":"Laptops",
+        "drop":{
+          "text1":"For Home ",
+          "text2":"For Business"
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/dell-homepage-product-wayfinding-cold-laptops-xs9320.png?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"Desktops & All-in-Ones",
+        "drop":{
+          "text1":"For Home ",
+          "text2":"For Business"
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/dell-homepage-product-wayfinding-warm-consumer-inspiron-desktops-in7720.png?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"Monitors",
+        "drop":{
+          "text1":"For Home ",
+          "text2":"For Business"
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/uhp-wayfinder-monitor-s2722qc-480x360.png?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"PC Accessories",
+        "drop":{
+          "text1":"For Home ",
+          "text2":"For Business"
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/dell-homepage-product-wayfinding-cold-pc-accessories-wb7022.png?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"Dell APEX Multicloud & aaS",
+        "drop":{
+          "text1":"",
+          "text2":""
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/dell-homepage-product-wayfinding-cold-apex-multicloud-aas-xs9315-stocksy2607481.jpg?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"IT Infrastructure",
+        "drop":{
+          "text1":"Servers",
+          "text2":"Data Storage",
+          "text3":"Hyperconverged Infrastructure ",
+          "text4":"Networking "
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/uhp-wayfinder-enterprise-server-r760xa-480x360.png?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"Artificial Intelligence",
+        "drop":{
+          "text1":"",
+          "text2":""
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/dell-homepage-product-wayfinding-cold-gen-ai-solutions-getty1537473222.jpg?fmt=png-alpha&wid=480&hei=360"
+      },
+      {
+        "btnText":"Edge Solutions",
+        "drop":{
+          "text1":"",
+          "text2":""
+        },
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/product-wayfinder/uhp-wayfinder-lifestyle-edge-480x360.jpg?fmt=png-alpha&wid=480&hei=360"
+      }
+    ],
+    "solutions":[
+      {
+        "shead":"XPS 16 LAPTOP",
+        "head":"Supercharged performance. Now with AI.",
+        "desc":"Powerful, AI-capable performance for your most demanding projects.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/modules/cs2501g0003-002-gl-cs-fy24q4-sit-xps-16-9640-1610x906-sl.jpg?wid=1610&hei=906"
+      },
+      {
+        "shead":"POWERFUL WORKSTATIONS",
+        "head":"Precision for Creators",
+        "desc":"High-performance workstations built to handle intense creative applications.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/heroes/show-sb-dell-precision-5690t-uhp-2502-08-in-promo-c-lf-1610x906.jpg?wid=1610&hei=906"
+      },
+      {
+        "shead":"BACK-TO-COLLEGE OFFERS",
+        "head":"Up Your Game",
+        "desc":"Elevate your gaming experience with cutting-edge tech and No Cost EMI.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/promo-carousel/btc-cons-dell-lifestyle-g-series-5530-ms5120w-cp5724s-uhp-2502-09-in-promo-c-lf-1610x906.jpg?wid=1610&hei=906"
+      },
+      {
+        "shead":"GAMING MONITORS",
+        "head":"Discover the Meaning of Lifelike",
+        "desc":"Up to 5 Years warranty* on an incredible selection of reliable, gorgeous displays.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/promo-carousel/btc-cons-dell-aw-3225qf-uhp-2502-09-in-promo-c-lf-1610x906.jpg?wid=1610&hei=906"
+      },
+      {
+        "shead":"POWERSTORE",
+        "head":"The Future of Storage",
+        "desc":"Future-proof intelligent storage that redefines performance.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/promo-carousel/show-sb-dell-poweredge-r750xs-uhp-2501-03-in-promo-carousel-lf-1610x906.jpg?wid=1610&hei=906"
+      },
+      {
+        "shead":"EVERYDAY ESSENTIALS",
+        "head":"High-Achieving Accessories",
+        "desc":"Power your productivity with essential accessories – headsets, keyboards, mouse and more.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/apj/promo-carousel/g-series-cons-dell-aw-920k-310h-km7321w-uhp-2404-12-in-promo-carousel-lf-1610x906.jpg?wid=1610&hei=906"
+      }
+    ],
+    "supportItem":[
+      {
+        "icon":"https://img.icons8.com/?size=100&id=83326&format=png&color=000000",
+        "text":"Support Home"
+      },
+      {
+        "icon":"https://img.icons8.com/?size=100&id=82535&format=png&color=000000",
+        "text":"   Drivers and Downloads"
+      },
+      {
+        "icon":"https://img.icons8.com/?size=100&id=92655&format=png&color=000000",
+        "text":" Order Support"
+      }, 
+      {
+        "icon":"https://img.icons8.com/?size=100&id=85778&format=png&color=000000",
+        "text":"Warranty and Contracts"
+      }, 
+      {
+        "icon":"https://img.icons8.com/?size=100&id=101924&format=png&color=000000",
+        "text":" Parts and Upgrades"
+      }
+    ],
+    "wellLatest":[
+      {
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/na/whats-happening/uhp-whats-happening-whatwedo-480x360.jpg?wid=480&amp;hei=360",
+        "head":"What We Do",
+        "btnText":"Learn More"
+      },
+      {
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/non-product-images/lifestyle/gettyimages-1182617831-pr7530t-480x360.jpg?wid=480&amp;hei=360",
+      
+        "head":"Four Keys to Optimal Outcomes with Generative AI",
+        "btnText":"Read the article"
+      },
+      {
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/notebook-latitude-14-7420-480x360.jpg?wid=480&amp;hei=360",
+        "head":"Explore New Approaches to Innovation",
+        "btnText":"Learn More"
+      },
+      {
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/lifestyle-shutterstock-555069979-480x360.jpg?wid=480&amp;hei=360",
+        "head":"Our Purpose in Action",
+        "btnText":"Read More"
+      }
+    ],
+    "businessRewards":[
+      {
+        "shead":"DELL REWARDS FOR BUSINESS",
+        "head":"Buy More. Get More.",
+        "desc":"Get Rewarded on your purchase for your next buy at Dell.co.in. *Terms and conditions apply.",
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/en/programs-and-loyalty/pan-dell-woman-on-train-1200x675.jpg?fmt=png-alpha&wid=1200&hei=675"
+      }
+    ]
+
+    
+  }

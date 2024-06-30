@@ -1,0 +1,21 @@
+.outer {
+  width: 100%;
+  display: flex;
+  padding: 60px 132px;
+  gap: 70px;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #22466d, #01264e);
+  color: white;
+}
+#rewardsHead {
+  font-size: 40px;
+  margin: 0 0 8px;
+  padding: 16px 0 0;
+}
+#desc {
+  padding: 16px 0 0;
+}
+#btn {
+  border-radius: 3px;
+}

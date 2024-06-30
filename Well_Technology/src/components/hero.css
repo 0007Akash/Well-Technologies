@@ -1,0 +1,89 @@
+.corousel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.corousel-hidden {
+  display: none;
+}
+.carousel {
+  display: flex;
+  position: relative;
+
+  align-items: center;
+}
+.corousel-img {
+  width: 1200px;
+  height: 534px;
+}
+.corousel-img img {
+  width: 100%;
+  height: 534px;
+}
+.corousel-text {
+  background-color: #cecfcc;
+  width: 50%;
+  height: 534px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  padding-left: 150px;
+}
+
+#inner {
+  width: 423px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  color: rgb(97, 95, 95);
+}
+
+#inner h3 {
+  font-size: 20px;
+  padding: 0 0 24px;
+}
+#btnDiv {
+  display: flex;
+  gap: 10px;
+}
+.arrow {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  color: grey;
+}
+.arrow:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 10px #999);
+}
+.arrow-left {
+  left: 1rem;
+}
+.arrow-right {
+  right: 1rem;
+}
+.indicators {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  bottom: 1rem;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.indicator {
+  background-color: white;
+  height: 0.7rem;
+  width: 0.7rem;
+  border-radius: 100%;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 5px #555;
+}
+.indicator-inactive {
+  background-color: grey;
+}

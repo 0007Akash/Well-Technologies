@@ -1,0 +1,58 @@
+.main {
+  width: 100%;
+  height: 800px;
+  background-color: #141d28;
+}
+
+.main-container {
+  width: 100%;
+  height: 500px;
+  background-color: #141d28;
+  display: flex;
+  gap: 270px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  overflow: hidden;
+}
+
+.innerBox {
+  width: 1220px;
+  height: 539px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 280px;
+}
+.innerBox-hidden {
+  display: none;
+}
+#shead {
+  font-size: 16px;
+  margin: 0px 0px 13.28px;
+}
+#head {
+  font-size: 32px;
+  margin: 0px 0px 8px;
+}
+#desc {
+  font-size: 16px;
+  margin: 0px 0px 24px;
+}
+.Arrow {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  color: grey;
+  margin-top: 250px;
+}
+.Arrow:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 10px #999);
+}
+.ArrowLeft {
+  left: 1rem;
+}
+.ArrowRight {
+  right: 1rem;
+}
